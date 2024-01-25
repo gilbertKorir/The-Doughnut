@@ -1,6 +1,6 @@
 {
-    "name":"Doughnut App",
-    "short_name":"BAKERY",
+    "name":"The Doughnut",
+    "short_name":"The Doughnut",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#ffffff",
