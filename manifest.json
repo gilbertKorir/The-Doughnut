@@ -1,12 +1,12 @@
 {
-    "name":"PWA App",
-    "short_name":"PWA",
+    "name":"Doughnut App",
+    "short_name":"BAKERY",
     "start_url":"index.html",
     "display":"standalone",
     "background_color":"#ffffff",
     "theme_color":"black",
     "scope": ".",
-    "description":"This is a PWA tutorial.",
+    "description":"The Doughnut.",
     "icons":[
     {
     "src":"images/thedb.png",                     
@@ -14,7 +14,7 @@
     "type":"image/png"
     },
     {
-    "src":"images/icon-512x512.png",
+    "src":"images/bcklogo.png",
     "sizes":"512x512",
     "type":"image/png"
     }
