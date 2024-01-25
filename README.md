@@ -19,4 +19,4 @@ The project contains three pages which are:
 3. Bakers - This page contains a gallery of the bakers.
 
 
-Live Url = https://abdulsamadayoade.github.io/Bakery
+Live Url = https://the-doughnut.vercel.app/
