@@ -77,8 +77,8 @@ header {
 }
 
 .logo {
-    font-size: 2.5rem;
-    color: var(--white-color);
+    font-size: 3.7rem;
+    color: #db2777;
     letter-spacing: .1rem;
     transition: color .4s;
 }
@@ -228,10 +228,11 @@ h1.headline {
     font-size: 1.4rem;
     letter-spacing: 1px;
     text-transform: uppercase;
+    border-radius: 10px;
 }
 
 .btn-primary {
-    background-color: var(--secondary-font-color);
+    background-color: #db2777;
     color: var(--white-color);
     padding: 2rem 3rem;
     transition: all .4s;
@@ -652,9 +653,14 @@ footer .asterisk {
         padding-right: 7rem;
     }
 
+    footer{
+        background-color: #ec4899;
+    }
+
     .footer__content {
         max-width: 77.5rem;
         margin: auto;
+    
     }
 
     .footer__content-about {
